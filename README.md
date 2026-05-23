@@ -109,6 +109,8 @@ Example output from a successful run:
 - `recall train of NB: 0.9666666666666667`
 - `recall test of NB: 0.9659863945578231`
 
+<img width="820" height="576" alt="image" src="https://github.com/user-attachments/assets/f14e6e3a-8609-4bac-b44b-d6b0f4862618" />
+
 This means the model correctly identified about 96.6% of spam messages in both train and test sets.
 
 ## Notes
